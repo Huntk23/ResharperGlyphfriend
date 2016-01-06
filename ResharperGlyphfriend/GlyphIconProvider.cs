@@ -2,7 +2,6 @@
 using JetBrains.UI.Icons;
 using JetBrains.UI.Icons.ImageSourceIcons;
 
-
 namespace ResharperGlyphfriend
 {
     [DeclaredElementIconProvider]
