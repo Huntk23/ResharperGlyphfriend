@@ -1,5 +1,4 @@
 # Resharper Glyphfriend
-==
 
 Resharper Glyphfriend is a Resharper 10+ (10.0.2+?) extension to enhance the IntelliSense to display a preview of glyphs for the common glyph-based font libraries like Font Awesome, Bootstrap, etc.
 
