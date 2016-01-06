@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Hunt.ResharperGlyphfriend</id>
+    <version>1.0.0</version>
+    <title>Resharper Glyphfriend</title>
+    <authors>Kelby Hunt</authors>
+    <owners>Kelby Hunt</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <projectUrl>https://github.com/Huntk23/ResharperGlyphfriend</projectUrl>
+    <iconUrl>https://github.com/Huntk23/ResharperGlyphfriend</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Draws glyph icons into intellisense for easy searching.</description>
+    <releaseNotes>None yet.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>Glyph Intellisense</tags>
+    <dependencies>
+      <dependency id="Wave" version="[4.0]" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="..\ResharperGlyphfriend\bin\Release\ResharperGlyphfriend.dll" target="DotFiles" />
+  </files>
+</package>
