@@ -7,11 +7,16 @@ Based on a Visual Studio extension I simply needed: [Glyphfriend](https://github
 ## Supported Glyph Libraries
 * [Bootstrap Glyphicons](http://getbootstrap.com/components/#glyphicons)
 * [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
+* [Foundation](http://foundation.zurb.com/)
+* [Ionicons](http://ionicons.com/)
+* [IcoMoon](https://icomoon.io/)
+* [Octicons](https://octicons.github.com/)
 
 ## TODO
-* Add the rest of the commonly used glyph libraries
+* Add support for [Material Design Icons](https://materialdesignicons.com/)
+* Default Icons
 * Properly set up Resharper ZoneMarker
-* Possibly re-write extension to get glyph icons installed into project instead of embedded resources
+* Re-write extension to load only glyph icons that are installed in solution opened by user
 * Create Logo
 
 ## Thanks
