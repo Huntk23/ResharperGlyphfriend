@@ -13,7 +13,7 @@
     <description>Beta release for drawing glyph icons into IntelliSense for easy previewing.</description>
     <releaseNotes>Beta release</releaseNotes>
     <copyright>Copyright 2016</copyright>
-    <tags>Glyph IntelliSense</tags>
+    <tags>Glyph Icon IntelliSense</tags>
     <dependencies>
       <dependency id="Wave" version="[4.0]" />
     </dependencies>
