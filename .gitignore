@@ -1,3 +1,4 @@
 packages/
 ResharperGlyphfriend/bin/
 ResharperGlyphfriend/obj/
+*.nupkg

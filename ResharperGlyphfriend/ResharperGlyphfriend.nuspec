@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Hunt.ResharperGlyphfriend</id>
-    <version>0.6.0</version>
+    <version>0.7.0</version>
     <title>Resharper Glyphfriend</title>
     <authors>Kelby Hunt</authors>
     <owners>Kelby Hunt</owners>
@@ -10,10 +10,10 @@
     <projectUrl>https://github.com/Huntk23/ResharperGlyphfriend</projectUrl>
     <iconUrl>https://github.com/Huntk23/ResharperGlyphfriend</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Draws glyph icons into intellisense for easy searching.</description>
-    <releaseNotes>None yet.</releaseNotes>
+    <description>Beta release for drawing glyph icons into IntelliSense for easy previewing.</description>
+    <releaseNotes>Beta release</releaseNotes>
     <copyright>Copyright 2016</copyright>
-    <tags>Glyph Intellisense</tags>
+    <tags>Glyph IntelliSense</tags>
     <dependencies>
       <dependency id="Wave" version="[4.0]" />
     </dependencies>

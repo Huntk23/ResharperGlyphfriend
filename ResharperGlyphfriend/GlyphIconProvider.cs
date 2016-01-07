@@ -16,7 +16,7 @@ namespace ResharperGlyphfriend
                 ImageSourceIconId value;
                 if (GlyphfriendStorage.Glyphs.TryGetValue(declaredElement.ShortName, out value))
                 {
-                    return GlyphfriendStorage.Glyphs[declaredElement.ShortName];
+                    return value;
                 }
             }
 
