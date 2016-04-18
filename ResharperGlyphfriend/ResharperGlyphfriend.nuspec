@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Hunt.ResharperGlyphfriend</id>
-    <version>0.7.0</version>
+    <version>0.8.0</version>
     <title>Resharper Glyphfriend</title>
     <authors>Kelby Hunt</authors>
     <owners>Kelby Hunt</owners>
@@ -15,7 +15,7 @@
     <copyright>Copyright 2016</copyright>
     <tags>Glyph Icon IntelliSense</tags>
     <dependencies>
-      <dependency id="Wave" version="[4.0]" />
+      <dependency id="Wave" version="[5.0]" />
     </dependencies>
   </metadata>
   <files>
