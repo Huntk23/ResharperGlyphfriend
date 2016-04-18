@@ -1,4 +1,5 @@
 ﻿using JetBrains.ReSharper.Psi;
+using JetBrains.ReSharper.Psi.Css.Impl;
 using JetBrains.UI.Icons;
 using JetBrains.UI.Icons.ImageSourceIcons;
 
@@ -9,7 +10,7 @@ namespace ResharperGlyphfriend
     {
         public IconId GetImageId(IDeclaredElement declaredElement, PsiLanguageType languageType, out bool canApplyExtensions)
         {
-            if (declaredElement.GetElementType().PresentableName == @"css class")
+            if (declaredElement.GetElementType() == CssDeclaredElementType.CssClass)
             {
                 canApplyExtensions = false;
 
