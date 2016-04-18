@@ -2,3 +2,4 @@ packages/
 ResharperGlyphfriend/bin/
 ResharperGlyphfriend/obj/
 *.nupkg
+.vs/

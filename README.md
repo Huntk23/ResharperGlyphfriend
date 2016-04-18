@@ -11,9 +11,10 @@ Based on a Visual Studio extension I simply needed: [Glyphfriend](https://github
 * [Ionicons](http://ionicons.com/)
 * [IcoMoon](https://icomoon.io/)
 * [Octicons](https://octicons.github.com/)
+* [Material Design Icons](https://materialdesignicons.com/)
 
 ## TODO
-* Add support for [Material Design Icons](https://materialdesignicons.com/)
+* Use the advice from Matt Ellis to cache Icons better and make them Theme aware
 * Default Icons
 * Properly set up Resharper ZoneMarker
 * Re-write extension to load only glyph icons that are installed in solution opened by user
